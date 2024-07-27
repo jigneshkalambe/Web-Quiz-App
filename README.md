@@ -19,14 +19,14 @@ QuickQuiz is a simple and interactive web-based quiz application built with Reac
     ```
 2. Install dependencies:
 
-    ```npm install
-
+    ```bash
+    npm install
     ```
 
 3. Start the application:
 
-    ```npm start
-
+    ```bash
+    npm start
     ```
 
 ## Usage
